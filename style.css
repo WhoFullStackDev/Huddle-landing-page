@@ -296,7 +296,7 @@ footer {
   transform: scale(0.9) translateX(-5px);
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 48em) {
   #introductionSection {
     padding: 10px;
   }
